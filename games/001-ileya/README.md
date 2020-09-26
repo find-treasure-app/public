@@ -1,4 +1,4 @@
-# ileya
+# Ileya Game
 Containing code and info about the Ileya game
 
 ## Game Stats

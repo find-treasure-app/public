@@ -1,4 +1,4 @@
-# cipher
+# Cipher Game
 Containing code and info about the Cipher game
 
 ## Game Stats
